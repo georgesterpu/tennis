@@ -30,6 +30,9 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 
 collections:
   portfolio:
+  
+include:
+  - _pages
 
 markdown: kramdown
 
@@ -39,3 +42,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+

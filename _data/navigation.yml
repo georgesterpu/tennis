@@ -11,18 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Membership"
       section: services
     - title: "Portfolio2"
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "Membership"
       section: timeline
-    - title: "Team"
+    - title: "Community"
       section: team
     - title: "Contact"
       section: contact
+    - title: "Extra page"
+      url: "/tennis/thepage"
     #- title: "Theme Source"
     #  url: https://github.com/georgesterpu/tennis
 en-US:
