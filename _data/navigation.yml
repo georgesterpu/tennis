@@ -17,13 +17,13 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Membership"
+    - title: "Coaching"
       section: timeline
     - title: "Community"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Extra page"
+    - title: "Latest news"
       url: "/tennis/thepage"
     #- title: "Theme Source"
     #  url: https://github.com/georgesterpu/tennis
