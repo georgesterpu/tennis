@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Club Activities"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close"
@@ -71,21 +71,21 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     section: about
-    text: "Shankill Tennis Club history"
-    list:
-      - title: "Club History"
-        icon: fab fa-markdown
-        url: history
-      - title: "Junior Tennis"
-        icon: fab fa-markdown
-      - title: "Ladies Tennis"
-        icon: fab fa-markdown
-      - title: "Men's Tennis"
-        icon: fab fa-markdown
-      - title: "Disability Tennis"
-        icon: fab fa-markdown
-      - title: News"
-        icon: fab fa-markdown
+    body: "Shankill Tennis Club was built for the community, by the community. We believe that tennis should be accessible to all. This is at the heart of what we do at Shankill Tennis Club."
+    # list:
+      # - title: "Club History"
+        # icon: fab fa-markdown
+        # url: history
+      # - title: "Junior Tennis"
+        # icon: fab fa-markdown
+      # - title: "Ladies Tennis"
+        # icon: fab fa-markdown
+      # - title: "Men's Tennis"
+        # icon: fab fa-markdown
+      # - title: "Disability Tennis"
+        # icon: fab fa-markdown
+      # - title: News"
+        # icon: fab fa-markdown
     
 
   clients:

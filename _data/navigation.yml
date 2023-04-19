@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Membership"
       section: services
-    - title: "Portfolio2"
+    - title: "Club activities"
       section: portfolio
     - title: "About"
       section: about

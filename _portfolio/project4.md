@@ -1,13 +1,13 @@
 ---
-title: Project Name
+title: Disability Tennis
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Disability Tennis
+  subtitle: subtitle
+  thumbnail: assets/img/disability_tennis.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

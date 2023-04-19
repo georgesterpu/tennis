@@ -1,18 +1,19 @@
 ---
-title: Project Threads
+title: Current Office Opening Hours
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+#image: assets/img/office_hours.webp
+#alt: Shirts on a hanger
 
 caption:
-  title: Threads
+  title: Opening hours
   subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/office_hours.webp
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+Monday-Fri: 9.00 am – 13.00 pm and 17.00 – 22.00pm
+
+Saturday: 9.00am-19.00pm
+
+Sunday: 9.00am- 12.00pm and 14.00-18.00
+
 
